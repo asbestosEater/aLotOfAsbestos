@@ -22,3 +22,5 @@ print(Y_test)
 print(y_lr_test_pred)
 print('Coefficient of determination (R^2): %.8f'
       % r2_score(Y_test, y_lr_test_pred))
+
+#poggers
